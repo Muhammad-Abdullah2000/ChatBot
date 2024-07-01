@@ -1,0 +1,7 @@
+phases of SDLC
+1   ====>      initial investigation ------> Roughly investigate
+2   ====>      Analysis   ------->    
+3   ====>      Design  --------->
+4   ====>      Development       --------->
+5   ====>      implimentation  ---------->
+6   ====>      maintinence   ------------>
